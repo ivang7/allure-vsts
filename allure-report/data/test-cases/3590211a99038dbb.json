@@ -1,0 +1,57 @@
+{
+  "uid" : "3590211a99038dbb",
+  "name" : "Allure.XUnit.Examples.ExampleParameterisedTests.TestTheory(a: 1, b: 1)",
+  "fullName" : "Allure.XUnit.Examples.ExampleParameterisedTests.TestTheory(a: 1, b: 1)",
+  "historyId" : "Allure.XUnit.Examples.ExampleParameterisedTests.TestTheory(a: 1, b: 1)",
+  "time" : {
+    "start" : 1658007728758,
+    "stop" : 1658007728758,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "statusMessage" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : ".NET Long Running Task"
+  }, {
+    "name" : "host",
+    "value" : "fv-az289-964"
+  }, {
+    "name" : "testClass",
+    "value" : "Allure.XUnit.Examples.ExampleParameterisedTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "Allure.XUnit.Examples.ExampleParameterisedTests.TestTheory(a: 1, b: 1)"
+  }, {
+    "name" : "package",
+    "value" : "Allure.XUnit.Examples.ExampleParameterisedTests"
+  }, {
+    "name" : "parentSuite",
+    "value" : "AllTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test InlineData"
+  }, {
+    "name" : "suite",
+    "value" : "Test AllureXunitTheory"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3590211a99038dbb.json",
+  "parameterValues" : [ ]
+}

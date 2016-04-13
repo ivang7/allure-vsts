@@ -1,0 +1,15 @@
+{
+  "total" : 17,
+  "items" : [ {
+    "uid" : "108c725f7cf84ebf56d28208eb81cb1c",
+    "name" : "TestEpic",
+    "statistic" : {
+      "failed" : 3,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 6
+    }
+  } ]
+}

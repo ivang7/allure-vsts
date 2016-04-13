@@ -1,0 +1,140 @@
+{
+  "uid" : "e43a9c726696ca0b",
+  "name" : "Allure.Xunit.Examples.ExampleSteps.TestFail",
+  "fullName" : "Allure.Xunit.Examples.ExampleSteps.TestFail",
+  "historyId" : "Allure.Xunit.Examples.ExampleSteps.TestFail",
+  "time" : {
+    "start" : 1658007728804,
+    "stop" : 1658007728804,
+    "duration" : 0
+  },
+  "status" : "failed",
+  "statusMessage" : "Exception of type 'System.Exception' was thrown.",
+  "statusTrace" : "   at Allure.Xunit.Examples.ExampleSteps.TestFail() in D:\\a\\1\\s\\src\\Allure.XUnit.Examples\\ExampleSteps.cs:line 42",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "Initialization",
+    "time" : {
+      "start" : 1658007728804,
+      "stop" : 1658007728804,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "Nested",
+    "time" : {
+      "start" : 1658007728804,
+      "stop" : 1658007728804,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Exception of type 'System.Exception' was thrown.",
+    "statusTrace" : "   at Allure.Xunit.Examples.ExampleSteps.TestFail() in D:\\a\\1\\s\\src\\Allure.XUnit.Examples\\ExampleSteps.cs:line 42",
+    "steps" : [ {
+      "name" : "Test Fail",
+      "time" : {
+        "start" : 1658007728804,
+        "stop" : 1658007728804,
+        "duration" : 0
+      },
+      "status" : "failed",
+      "steps" : [ {
+        "name" : "Nested",
+        "time" : {
+          "start" : 1658007728804,
+          "stop" : 1658007728804,
+          "duration" : 0
+        },
+        "status" : "failed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "hasContent" : false,
+        "stepsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 2,
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "Cleanup",
+    "time" : {
+      "start" : 1658007728804,
+      "stop" : 1658007728804,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : ".NET Long Running Task"
+  }, {
+    "name" : "host",
+    "value" : "fv-az289-964"
+  }, {
+    "name" : "testClass",
+    "value" : "Allure.Xunit.Examples.ExampleSteps"
+  }, {
+    "name" : "testMethod",
+    "value" : "Allure.Xunit.Examples.ExampleSteps.TestFail"
+  }, {
+    "name" : "package",
+    "value" : "Allure.Xunit.Examples.ExampleSteps"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "e43a9c726696ca0b.json",
+  "parameterValues" : [ ]
+}

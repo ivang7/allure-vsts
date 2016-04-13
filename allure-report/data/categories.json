@@ -1,0 +1,94 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Assert.Equal() Failure\r\nExpected: 10\r\nActual:   11",
+      "children" : [ {
+        "name" : "Allure.XUnit.Examples.ExampleParameterisedTests.TestTheoryWithMemberData(a: MyTestClass { Test = 10 }, b: MyTestClass { Test = 11 })",
+        "uid" : "17d701e4512f8abf",
+        "parentUid" : "b803ee7cf8e716e4dee7c55f636a3f80",
+        "status" : "failed",
+        "time" : {
+          "start" : 1658007728691,
+          "stop" : 1658007728724,
+          "duration" : 33
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b803ee7cf8e716e4dee7c55f636a3f80"
+    }, {
+      "name" : "Assert.True() Failure\r\nExpected: True\r\nActual:   False",
+      "children" : [ {
+        "name" : "Test that 1 is not equals 1",
+        "uid" : "51b3e243223e9e",
+        "parentUid" : "962fe583ec7242dec541409aa893476e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1658007728692,
+          "stop" : 1658007728731,
+          "duration" : 39
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "962fe583ec7242dec541409aa893476e"
+    }, {
+      "name" : "Assert.Empty() Failure\r\nCollection: [1, 2, 3]",
+      "children" : [ {
+        "name" : "Another Test",
+        "uid" : "968c69eccbe531a8",
+        "parentUid" : "68759a50b5af9611fa134d557cd3c7cf",
+        "status" : "failed",
+        "time" : {
+          "start" : 1658007728755,
+          "stop" : 1658007728756,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "68759a50b5af9611fa134d557cd3c7cf"
+    }, {
+      "name" : "Assert.Equal() Failure\r\nExpected: 1\r\nActual:   2",
+      "children" : [ {
+        "name" : "Allure.XUnit.Examples.ExampleParameterisedTests.TestTheory(a: 1, b: 2)",
+        "uid" : "ee606044232c73eb",
+        "parentUid" : "d926e1531dfbe7210cb70f3d74a3928f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1658007728756,
+          "stop" : 1658007728756,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d926e1531dfbe7210cb70f3d74a3928f"
+    }, {
+      "name" : "Exception of type 'System.Exception' was thrown.",
+      "children" : [ {
+        "name" : "Allure.Xunit.Examples.ExampleSteps.TestFail",
+        "uid" : "e43a9c726696ca0b",
+        "parentUid" : "d50fb680291f2a365163388c28676304",
+        "status" : "failed",
+        "time" : {
+          "start" : 1658007728804,
+          "stop" : 1658007728804,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d50fb680291f2a365163388c28676304"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}
