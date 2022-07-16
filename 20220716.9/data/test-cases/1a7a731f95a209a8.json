@@ -1,0 +1,57 @@
+{
+  "uid" : "1a7a731f95a209a8",
+  "name" : "Allure.XUnit.Examples.ExampleParameterisedTests.TestTheoryWithMemberData(a: MyTestClass { Test = 10 }, b: MyTestClass { Test = 10 })",
+  "fullName" : "Allure.XUnit.Examples.ExampleParameterisedTests.TestTheoryWithMemberData(a: MyTestClass { Test = 10 }, b: MyTestClass { Test = 10 })",
+  "historyId" : "Allure.XUnit.Examples.ExampleParameterisedTests.TestTheoryWithMemberData(a: MyTestClass { Test = 10 }, b: MyTestClass { Test = 10 })",
+  "time" : {
+    "start" : 1658015169445,
+    "stop" : 1658015169446,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "statusMessage" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : ".NET Long Running Task"
+  }, {
+    "name" : "host",
+    "value" : "WIN-P8TCTP8PVTV"
+  }, {
+    "name" : "testClass",
+    "value" : "Allure.XUnit.Examples.ExampleParameterisedTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "Allure.XUnit.Examples.ExampleParameterisedTests.TestTheoryWithMemberData(a: MyTestClass { Test = 10 }, b: MyTestClass { Test = 10 })"
+  }, {
+    "name" : "package",
+    "value" : "Allure.XUnit.Examples.ExampleParameterisedTests"
+  }, {
+    "name" : "parentSuite",
+    "value" : "AllTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test MemberData with Custom Reference Type"
+  }, {
+    "name" : "suite",
+    "value" : "Test AllureXunitTheory"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1a7a731f95a209a8.json",
+  "parameterValues" : [ ]
+}

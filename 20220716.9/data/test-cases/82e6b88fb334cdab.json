@@ -1,0 +1,131 @@
+{
+  "uid" : "82e6b88fb334cdab",
+  "name" : "Allure.Xunit.Examples.ExampleSteps.TestParameters",
+  "fullName" : "Allure.Xunit.Examples.ExampleSteps.TestParameters",
+  "historyId" : "Allure.Xunit.Examples.ExampleSteps.TestParameters",
+  "time" : {
+    "start" : 1658015169361,
+    "stop" : 1658015169410,
+    "duration" : 49
+  },
+  "status" : "passed",
+  "statusMessage" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "Initialization",
+    "time" : {
+      "start" : 1658015169378,
+      "stop" : 1658015169383,
+      "duration" : 5
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "Nested",
+    "time" : {
+      "start" : 1658015169382,
+      "stop" : 1658015169382,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "statusMessage" : "",
+    "steps" : [ {
+      "name" : "Write Hello",
+      "time" : {
+        "start" : 1658015169387,
+        "stop" : 1658015169388,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "parameter",
+        "value" : "42"
+      }, {
+        "name" : "value",
+        "value" : "4242"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "237b8f214d683a38",
+      "name" : "large json",
+      "source" : "237b8f214d683a38.txt",
+      "type" : "text/plain",
+      "size" : 2
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ {
+    "name" : "Cleanup",
+    "time" : {
+      "start" : 1658015169408,
+      "stop" : 1658015169409,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : ".NET Long Running Task"
+  }, {
+    "name" : "host",
+    "value" : "WIN-P8TCTP8PVTV"
+  }, {
+    "name" : "testClass",
+    "value" : "Allure.Xunit.Examples.ExampleSteps"
+  }, {
+    "name" : "testMethod",
+    "value" : "Allure.Xunit.Examples.ExampleSteps.TestParameters"
+  }, {
+    "name" : "package",
+    "value" : "Allure.Xunit.Examples.ExampleSteps"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "82e6b88fb334cdab.json",
+  "parameterValues" : [ ]
+}

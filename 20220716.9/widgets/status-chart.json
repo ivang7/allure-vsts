@@ -1,0 +1,211 @@
+[ {
+  "uid" : "6bf7d720a7922aa8",
+  "name" : "Another Test",
+  "time" : {
+    "start" : 1658015169448,
+    "stop" : 1658015169450,
+    "duration" : 2
+  },
+  "status" : "failed",
+  "severity" : "minor"
+}, {
+  "uid" : "84ccc27945602789",
+  "name" : "Allure.XUnit.Examples.ExampleParameterisedTests.TestTheoryWithMemberData(a: MyTestClass { Test = -1 }, b: MyTestClass { Test = -1 })",
+  "time" : {
+    "start" : 1658015169448,
+    "stop" : 1658015169448,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "372d8bd13a149bd5",
+  "name" : "Allure.XUnit.Examples.ExampleParameterisedTests.TestTheoryWithMemberDataProperty(value1: -2147483648, value2: -1, expected: 2147483647)",
+  "time" : {
+    "start" : 1658015169462,
+    "stop" : 1658015169462,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a62a0e49288066c",
+  "name" : "Allure.XUnit.Examples.ExampleUnitTests.TestMultipleTagsWithOverwrite",
+  "time" : {
+    "start" : 1658015169446,
+    "stop" : 1658015169446,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "82e6b88fb334cdab",
+  "name" : "Allure.Xunit.Examples.ExampleSteps.TestParameters",
+  "time" : {
+    "start" : 1658015169361,
+    "stop" : 1658015169410,
+    "duration" : 49
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "662d7fc534860797",
+  "name" : "Allure.XUnit.Examples.ExampleParameterisedTests.TestTheoryWithMemberDataProperty(value1: 1, value2: 2, expected: 3)",
+  "time" : {
+    "start" : 1658015169459,
+    "stop" : 1658015169459,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9d80cb3f94065971",
+  "name" : "Test mapped to existing test case #1 in allure",
+  "time" : {
+    "start" : 1658015169452,
+    "stop" : 1658015169452,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "1be0434668ec5135",
+  "name" : "Allure.XUnit.Examples.ExampleParameterisedTests.TestTheoryWithClassData(value1: -2, value2: 2, expected: 0)",
+  "time" : {
+    "start" : 1658015169456,
+    "stop" : 1658015169456,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ae9627c8a5ab84b4",
+  "name" : "Allure.XUnit.Examples.ExampleParameterisedTests.TestTheoryWithMemberDataProperty(value1: -4, value2: -6, expected: -10)",
+  "time" : {
+    "start" : 1658015169461,
+    "stop" : 1658015169461,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2441e753f202d95e",
+  "name" : "Allure.XUnit.Examples.ExampleParameterisedTests.TestTheoryWithMemberData(a: MyTestClass { Test = 10 }, b: MyTestClass { Test = 11 })",
+  "time" : {
+    "start" : 1658015169362,
+    "stop" : 1658015169430,
+    "duration" : 68
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "b0c6f99c99aa76c",
+  "name" : "Test that 1 is equals 1",
+  "time" : {
+    "start" : 1658015169453,
+    "stop" : 1658015169471,
+    "duration" : 18
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "bce3e56d2f814e81",
+  "name" : "Allure.XUnit.Examples.ExampleParameterisedTests.TestTheoryWithMemberDataProperty(value1: -2, value2: 2, expected: 0)",
+  "time" : {
+    "start" : 1658015169460,
+    "stop" : 1658015169460,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3b057994ae3befba",
+  "name" : "Allure.XUnit.Examples.ExampleParameterisedTests.TestTheory(a: 1, b: 2)",
+  "time" : {
+    "start" : 1658015169450,
+    "stop" : 1658015169451,
+    "duration" : 1
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "24f3db5189c3b225",
+  "name" : "Test that 1 is not equals 1",
+  "time" : {
+    "start" : 1658015169364,
+    "stop" : 1658015169430,
+    "duration" : 66
+  },
+  "status" : "failed",
+  "severity" : "minor"
+}, {
+  "uid" : "c2f531338883d268",
+  "name" : "Allure.XUnit.Examples.ExampleParameterisedTests.TestTheoryWithMemberData(a: MyTestClass { Test = 1 }, b: MyTestClass { Test = 1 })",
+  "time" : {
+    "start" : 1658015169449,
+    "stop" : 1658015169449,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "28e4410675dce20b",
+  "name" : "Allure.XUnit.Examples.ExampleParameterisedTests.TestTheoryWithClassData(value1: 1, value2: 2, expected: 3)",
+  "time" : {
+    "start" : 1658015169457,
+    "stop" : 1658015169457,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ca0710ffc4d78bd0",
+  "name" : "Allure.XUnit.Examples.ExampleParameterisedTests.TestTheoryWithClassData(value1: -4, value2: -6, expected: -10)",
+  "time" : {
+    "start" : 1658015169454,
+    "stop" : 1658015169454,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ccde661ea18a292f",
+  "name" : "Allure.Xunit.Examples.ExampleSteps.TestFail",
+  "time" : {
+    "start" : 1658015169456,
+    "stop" : 1658015169457,
+    "duration" : 1
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "8e8a02155116011f",
+  "name" : "Allure.XUnit.Examples.ExampleParameterisedTests.TestTheory(a: 1, b: 1)",
+  "time" : {
+    "start" : 1658015169452,
+    "stop" : 1658015169452,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1a7a731f95a209a8",
+  "name" : "Allure.XUnit.Examples.ExampleParameterisedTests.TestTheoryWithMemberData(a: MyTestClass { Test = 10 }, b: MyTestClass { Test = 10 })",
+  "time" : {
+    "start" : 1658015169445,
+    "stop" : 1658015169446,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "81230c0e63223e86",
+  "name" : "Allure.XUnit.Examples.ExampleParameterisedTests.TestTheoryWithClassData(value1: -2147483648, value2: -1, expected: 2147483647)",
+  "time" : {
+    "start" : 1658015169453,
+    "stop" : 1658015169453,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
