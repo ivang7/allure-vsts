@@ -1,0 +1,303 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Allure.Xunit.Examples.ExampleSteps.TestParameters",
+    "uid" : "2df06abadfad257",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1658013037313,
+      "stop" : 1658013037366,
+      "duration" : 53
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Allure.XUnit.Examples.ExampleParameterisedTests.TestTheoryWithMemberData(a: MyTestClass { Test = 10 }, b: MyTestClass { Test = 11 })",
+    "uid" : "aa27e1f7b9265afe",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1658013037314,
+      "stop" : 1658013037397,
+      "duration" : 83
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "TestEpic",
+    "children" : [ {
+      "name" : "qwerty",
+      "children" : [ {
+        "name" : "Test that 1 is not equals 1",
+        "uid" : "b4bdbf1e9c076e99",
+        "parentUid" : "07126acd4ed387f6cb04ebbccbe1fa17",
+        "status" : "failed",
+        "time" : {
+          "start" : 1658013037316,
+          "stop" : 1658013037398,
+          "duration" : 82
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "07126acd4ed387f6cb04ebbccbe1fa17"
+    }, {
+      "name" : "123",
+      "children" : [ {
+        "name" : "Test that 1 is not equals 1",
+        "uid" : "b4bdbf1e9c076e99",
+        "parentUid" : "f9fb86e717923571771c43971c5d027f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1658013037316,
+          "stop" : 1658013037398,
+          "duration" : 82
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f9fb86e717923571771c43971c5d027f"
+    }, {
+      "name" : "Allure.XUnit.Examples.ExampleUnitTests.TestMultipleTagsWithOverwrite",
+      "uid" : "9c7bf73f29095f2d",
+      "parentUid" : "108c725f7cf84ebf56d28208eb81cb1c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658013037423,
+        "stop" : 1658013037423,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Another Test",
+      "uid" : "fa84e017ddd28a10",
+      "parentUid" : "108c725f7cf84ebf56d28208eb81cb1c",
+      "status" : "failed",
+      "time" : {
+        "start" : 1658013037425,
+        "stop" : 1658013037428,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Test mapped to existing test case #1 in allure",
+      "uid" : "f40a80f8fd402222",
+      "parentUid" : "108c725f7cf84ebf56d28208eb81cb1c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658013037429,
+        "stop" : 1658013037429,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Test that 1 is equals 1",
+      "uid" : "9895603db1dc00cc",
+      "parentUid" : "108c725f7cf84ebf56d28208eb81cb1c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658013037431,
+        "stop" : 1658013037445,
+        "duration" : 14
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "108c725f7cf84ebf56d28208eb81cb1c"
+  }, {
+    "name" : "Allure.XUnit.Examples.ExampleParameterisedTests.TestTheoryWithMemberData(a: MyTestClass { Test = 10 }, b: MyTestClass { Test = 10 })",
+    "uid" : "41f16c4340b1ee3f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1658013037420,
+      "stop" : 1658013037421,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Allure.XUnit.Examples.ExampleParameterisedTests.TestTheoryWithMemberData(a: MyTestClass { Test = -1 }, b: MyTestClass { Test = -1 })",
+    "uid" : "40e2ff314fe353b6",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1658013037422,
+      "stop" : 1658013037422,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Allure.XUnit.Examples.ExampleParameterisedTests.TestTheoryWithMemberData(a: MyTestClass { Test = 1 }, b: MyTestClass { Test = 1 })",
+    "uid" : "7cabb582c86d01fd",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1658013037423,
+      "stop" : 1658013037423,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Allure.Xunit.Examples.ExampleSteps.TestFail",
+    "uid" : "6ca91929ad5097ef",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1658013037424,
+      "stop" : 1658013037425,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Allure.XUnit.Examples.ExampleParameterisedTests.TestTheory(a: 1, b: 2)",
+    "uid" : "1e43261a4073e004",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1658013037425,
+      "stop" : 1658013037425,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Allure.XUnit.Examples.ExampleParameterisedTests.TestTheory(a: 1, b: 1)",
+    "uid" : "8c08527afaff50a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1658013037426,
+      "stop" : 1658013037426,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Allure.XUnit.Examples.ExampleParameterisedTests.TestTheoryWithClassData(value1: -2147483648, value2: -1, expected: 2147483647)",
+    "uid" : "43882bfb3c439d30",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1658013037428,
+      "stop" : 1658013037428,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Allure.XUnit.Examples.ExampleParameterisedTests.TestTheoryWithClassData(value1: -4, value2: -6, expected: -10)",
+    "uid" : "125d75fff2a2cee5",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1658013037429,
+      "stop" : 1658013037429,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Allure.XUnit.Examples.ExampleParameterisedTests.TestTheoryWithClassData(value1: -2, value2: 2, expected: 0)",
+    "uid" : "d14688d743b6417",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1658013037430,
+      "stop" : 1658013037430,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Allure.XUnit.Examples.ExampleParameterisedTests.TestTheoryWithMemberDataProperty(value1: 1, value2: 2, expected: 3)",
+    "uid" : "dfb17b5b53c46b06",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1658013037431,
+      "stop" : 1658013037432,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Allure.XUnit.Examples.ExampleParameterisedTests.TestTheoryWithClassData(value1: 1, value2: 2, expected: 3)",
+    "uid" : "a3687b66c4b61273",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1658013037431,
+      "stop" : 1658013037431,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Allure.XUnit.Examples.ExampleParameterisedTests.TestTheoryWithMemberDataProperty(value1: -2, value2: 2, expected: 0)",
+    "uid" : "6745b609ef28d3b2",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1658013037432,
+      "stop" : 1658013037433,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Allure.XUnit.Examples.ExampleParameterisedTests.TestTheoryWithMemberDataProperty(value1: -4, value2: -6, expected: -10)",
+    "uid" : "67399d6dd8ee6ba3",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1658013037433,
+      "stop" : 1658013037433,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Allure.XUnit.Examples.ExampleParameterisedTests.TestTheoryWithMemberDataProperty(value1: -2147483648, value2: -1, expected: 2147483647)",
+    "uid" : "be15c4c321324d33",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1658013037434,
+      "stop" : 1658013037434,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}
